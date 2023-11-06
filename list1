@@ -1,3 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,菜肌教练
+http://pull-hls-l96.douyincdn.com/stage/stream-7298147643476511515_or4.m3u8?expire=1699839992&sign=cd31f2c39078a30b264ceca9b6a88968
+#EXTINF:-1 ,流川枫
+http://pull-hls-l26.douyincdn.com/stage/stream-114033544028749963_or4.m3u8?expire=6551804f&sign=45573be28cfe737410aeab2b6483fc3d
 #EXTINF:-1 ,欧帅吃不胖
 http://pull-hls-l96.douyincdn.com/stage/stream-690494194120917609_or4.m3u8?expire=1699838294&sign=d45ef2b766bfb35d657e768388c3e03e
