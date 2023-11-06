@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,恐龙自然健身
+http://pull-hls-l11.douyincdn.com/stage/stream-7298188188747680549_or4.m3u8?expire=1699849606&sign=4139d2428a4b7a9b44bb5a422f52c510
+#EXTINF:-1 ,Aggressive
+http://pull-hls-l26.douyincdn.com/stage/stream-402264734274158731_or4.m3u8?expire=6551a492&sign=6774eae6735fa6b9b4f293b13e17ae69
+#EXTINF:-1 ,今天卷腹了吗
+http://pull-l3.douyincdn.com/stage/stream-7298172060969224987_or4.m3u8?auth_key=1699847509-0-0-d6261379b4ce5fe7db3bab6f8e544189
 #EXTINF:-1 ,菜肌教练
 http://pull-hls-l96.douyincdn.com/stage/stream-7298147643476511515_or4.m3u8?expire=1699839992&sign=cd31f2c39078a30b264ceca9b6a88968
 #EXTINF:-1 ,流川枫
